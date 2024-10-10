@@ -16,9 +16,9 @@ del color_list[4]
 print(color_list)
 
 #6. Slice the list from index 2 to 8.
-print(color_list[1:8])
+print(color_list[1:7])
 #OR
-print(color_list[1:9])
+print(color_list[1:8])
 
 #7. Print the last index.
 print(color_list[-1])
