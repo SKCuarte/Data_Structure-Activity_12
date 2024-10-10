@@ -17,9 +17,9 @@ del student_names[9]
 print(student_names)
 
 # E. Slice the list from index 2 to 5 and print the sliced portion.
-print(student_names[2:5])
+print(student_names[1:5])
 # OR
-print(student_names[2:6])
+print(student_names[1:6])
 
 # F. Print the last index of the list.
 print("The last index is: ", student_names[-1])
