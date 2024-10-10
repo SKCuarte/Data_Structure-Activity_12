@@ -22,5 +22,5 @@ print(fruit_list[3:6])
 print(fruit_list[3:7])
 
 #7. Print the last index.
-print(fruit_list[-1])
+print("The last index is: ", fruit_list[-1])
 
