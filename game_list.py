@@ -21,7 +21,7 @@ print(game_list[4:9])
 print(game_list[4:10])
 
 #7. Print the last index.
-print(game_list[-1])
+print("The last index is: ", game_list[-1])
 
 
 
