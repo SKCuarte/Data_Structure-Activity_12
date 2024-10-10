@@ -17,9 +17,9 @@ del fruit_list[9]
 print(fruit_list)
 
 #6. Slice the list from index 4 to 7.
-print(fruit_list[3:7])
+print(fruit_list[3:6])
 #OR
-print(fruit_list[3:8])
+print(fruit_list[3:7])
 
 #7. Print the last index.
 print(fruit_list[-1])
