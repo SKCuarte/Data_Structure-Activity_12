@@ -21,4 +21,4 @@ print(color_list[1:7])
 print(color_list[1:8])
 
 #7. Print the last index.
-print(color_list[-1])
+print("The last index is: ", color_list[-1])
