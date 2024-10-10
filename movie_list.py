@@ -21,7 +21,7 @@ print(movie_list[7:12])
 print(movie_list[7:13])
 
 #7. Print the last index.
-print(movie_list[-1])
+print("The last index is: ", movie_list[-1])
 
 
 
