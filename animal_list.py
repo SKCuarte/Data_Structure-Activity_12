@@ -16,4 +16,4 @@ del animal_names[7]
 print(animal_names)
 
 #6. Print the last index.
-print(animal_names[-1])
+print("The last index is: ", animal_names[-1])
