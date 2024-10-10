@@ -16,5 +16,5 @@ del vegetable_list[5]
 print(vegetable_list)
 
 #6. Print the last index.
-print(vegetable_list[-1])
+print("The last index is: ", vegetable_list[-1])
 
