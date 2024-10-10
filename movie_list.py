@@ -16,9 +16,9 @@ del movie_list[17]
 print(movie_list)
 
 #6. Slice the list from index 8 to 13.
-print(movie_list[7:13])
+print(movie_list[7:12])
 #OR
-print(movie_list[7:14])
+print(movie_list[7:13])
 
 #7. Print the last index.
 print(movie_list[-1])
