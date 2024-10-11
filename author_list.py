@@ -22,7 +22,7 @@ print(author_list[2:7])
 print(author_list[2:8])
 
 #7. Print the last index.
-print(author_list[-1])
+print("The last index is:", author_list[-1])
 
 
 
